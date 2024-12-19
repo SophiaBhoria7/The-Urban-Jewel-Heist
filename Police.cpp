@@ -1,4 +1,4 @@
-//Programmers: Omja Singh and Sophia Bhoria
+//Programmer: Sophia Bhoria
 //Date: Nov 24, 2024
 //Purpose: Implements the `Police` class, managing movement, arrests, loot confiscation, and tracking.
 
