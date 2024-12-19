@@ -1,4 +1,4 @@
-//Programmers: Sophia Bhoria
+//Programmer: Sophia Bhoria
 //Date: Nov 24, 2024
 //Purpose: Defines the `City` class to manage a 17x10 grid, place entities, and display the city state.
 
