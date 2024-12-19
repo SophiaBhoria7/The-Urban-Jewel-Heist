@@ -1,0 +1,89 @@
+Simulation (With Drones: Yes)
+
+Turn 1:
+
+Turn 2:
+
+Turn 3:
+
+Turn 4:
+
+Turn 5:
+
+Turn 6:
+
+Turn 7:
+
+Turn 8:
+
+Turn 9:
+
+Turn 10:
+
+Turn 11:
+
+Turn 12:
+
+Turn 13:
+
+Turn 14:
+
+Turn 15:
+
+Turn 16:
+
+Turn 17:
+
+Turn 18:
+
+Turn 19:
+
+Turn 20:
+
+Turn 21:
+
+Turn 22:
+
+Turn 23:
+
+Turn 24:
+
+Turn 25:
+
+Turn 26:
+
+Turn 27:
+
+Turn 28:
+
+Turn 29:
+
+Turn 30:
+
+Summary of the chase:
+The robbers win the chase because the maximum number of turns (30) has been reached.
+Police 1:
+	Confiscated loot value: $0
+	Robbers caught: 0
+Police 2:
+	Confiscated loot value: $0
+	Robbers caught: 0
+Police 3:
+	Confiscated loot value: $578
+	Robbers caught: 1
+
+Robber 1:
+	Jewels picked up: 6
+	Total jewel worth: $4806
+
+Robber 2:
+	Jewels picked up: 0
+	Total jewel worth: $4806
+
+Robber 3:
+	Jewels picked up: 7
+	Total jewel worth: $4806
+
+Robber 4:
+	Jewels picked up: 6
+	Total jewel worth: $4806
