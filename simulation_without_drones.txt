@@ -1,0 +1,32 @@
+Simulation (With Drones: No)
+
+Turn 1:
+
+Robbers win! Total loot value exceeds $5000.
+
+Summary of the chase:
+Police 1:
+	Confiscated loot value: $0
+	Robbers caught: 0
+Police 2:
+	Confiscated loot value: $0
+	Robbers caught: 0
+Police 3:
+	Confiscated loot value: $0
+	Robbers caught: 0
+
+Robber 5:
+	Jewels picked up: 0
+	Total jewel worth: $5095
+
+Robber 6:
+	Jewels picked up: 1
+	Total jewel worth: $5095
+
+Robber 7:
+	Jewels picked up: 0
+	Total jewel worth: $5095
+
+Robber 8:
+	Jewels picked up: 0
+	Total jewel worth: $5095
