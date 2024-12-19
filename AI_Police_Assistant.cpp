@@ -1,4 +1,4 @@
-//Programmers: Sophia Bhoria
+//Programmer: Sophia Bhoria
 //Date: Nov 24, 2024
 //Purpose: Implements the `AI_Police_Assistant` class, enabling drones to move randomly and scan for robbers.
 
