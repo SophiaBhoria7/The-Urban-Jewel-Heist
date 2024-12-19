@@ -1,4 +1,4 @@
-//Programmers: Sophia Bhoria
+//Programmer: Sophia Bhoria
 //Date: Nov 24, 2024
 //Purpose: Implements methods for grid initialization, entity placement, and grid display in the `City` class.
 
